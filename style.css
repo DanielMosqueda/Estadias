@@ -1,0 +1,142 @@
+.cursos{
+	position: relative;
+
+	left: 10%;
+	width: 110%;
+	height: 55%;
+	background-color: #4ABDAC;
+	border-radius: 30px;
+	
+	margin-top: 5%;
+	
+
+
+
+}
+h1{
+	text-align: center;
+	color: white;
+	font-size: 60px;
+	padding-top: 20px;
+
+}
+body{
+	background-color: #009999;
+	
+}
+.p{
+	text-align: center;
+	font-size: 25px;
+	
+}
+.man{
+	position: relative;
+	top: 28%;
+	left: 10%;
+}
+.woman{
+	position: relative;
+	top: 60%;
+	left: 10%;
+}
+.num1{
+	position: relative;
+	top: 10%;
+	left: 22%;
+	font-size: 50px;
+	color: white;
+	
+}
+.num2{
+	position: relative;
+	top: 25%;
+	left: 22%;
+	font-size: 50px;
+	color: white;
+
+}
+.di2{
+	position:relative;
+	top: -25%;
+	left: 40%;
+	width: 50%;
+	height: 55%;
+	background-color: #f2f2f2;
+}
+@media(orientation: landscape) { 
+
+.cursos{
+	position: relative;
+
+	left: 10%;
+	width: 110%;
+	height: 55%;
+	background-color: #4ABDAC;
+	border-radius: 30px;
+	
+	margin-top: 5%;
+	
+
+
+
+}
+h1{
+	text-align: center;
+	color: white;
+	font-size: 43px;
+	padding-top: 20px;
+
+}
+body{
+	background-color: #009999;
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+.p{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+.man{
+	position: absolute;
+	left: 10%;
+}
+.woman{
+	position: absolute;
+	top: 60%;
+	left: 10%;
+}
+.num1{
+	position: relative;
+	top: 3%;
+	left: 22%;
+	font-size: 30px;
+	color: white;
+	
+}
+.num2{
+	position: relative;
+	top: 10%;
+	left: 22%;
+	font-size: 30px;
+	color: white;
+
+}
+.di2{
+	position:relative;
+	top: -35%;
+	left: 40%;
+	width: 50%;
+	height: 55%;
+	background-color: #f2f2f2;
+}
+
+
+
+}
+
+
+
+
+
+ }
